@@ -45,8 +45,8 @@ Open the Java file and update the url, username, and password in the following l
 
 java
 
-private static final String url = "jdbc:mysql://localhost:3306/hotel_reservation_system";
-private static final String username = "root";
+private static final String url = "jdbc:mysql://localhost:3306/hotel_reservation_system";<br>
+private static final String username = "root";<br>
 private static final String password = "your_password";
 
 4. **Compile and run the program:**<br>
