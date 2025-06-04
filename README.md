@@ -62,7 +62,7 @@ java HotelReservationSystem
 - Exception handling
 - Structured Java classes and methods
 
-## SNAPSHOTS
+## Snapshots
 ![db_schema](media/db_schema.png)
 ![book_reservation](media/book_reservation.png)
 ![view_reservation](media/view_reservation.png)
@@ -71,5 +71,5 @@ java HotelReservationSystem
 ![delete_reservation](media/delete_reservation.png)
 ![exit_system](media/exit_system.png)
 
-## AUTHOR
+## Author
 Fadeela Naqash
