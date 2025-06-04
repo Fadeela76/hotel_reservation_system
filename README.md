@@ -41,7 +41,7 @@ Run the SQL script (if provided) or manually create tables as per the code requi
 
 3. **Update DB credentials:**<br>
 
-4. Open the Java file and update the url, username, and password in the following line:<br>
+Open the Java file and update the url, username, and password in the following line:
 
 java
 
