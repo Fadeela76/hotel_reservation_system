@@ -56,7 +56,7 @@ bash
 javac HotelReservationSystem.java
 java HotelReservationSystem
 
-🧠 Concepts Demonstrated
+🧠 **Concepts Demonstrated**
 - JDBC CRUD operations (CREATE, READ, UPDATE and DELETE)
 - Input validation using Scanner
 - Exception handling
