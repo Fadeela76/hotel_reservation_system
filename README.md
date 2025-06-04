@@ -70,3 +70,6 @@ java HotelReservationSystem
 ![update_reservation](media/update_reservation.png)
 ![delete_reservation](media/delete_reservation.png)
 ![exit_system](media/exit_system.png)
+
+## AUTHOR
+Fadeela Naqash
