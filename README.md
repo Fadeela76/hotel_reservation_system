@@ -49,7 +49,7 @@ private static final String url = "jdbc:mysql://localhost:3306/hotel_reservation
 private static final String username = "root";
 private static final String password = "your_password";
 
-5. **Compile and run the program:**<br>
+4. **Compile and run the program:**<br>
 
 bash
 
