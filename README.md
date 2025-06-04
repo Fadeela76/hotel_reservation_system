@@ -53,7 +53,7 @@ private static final String password = "your_password";
 
 bash
 
-javac HotelReservationSystem.java
+javac HotelReservationSystem.java<br>
 java HotelReservationSystem
 
 🧠 **Concepts Demonstrated**
